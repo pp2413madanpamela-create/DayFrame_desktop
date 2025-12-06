@@ -16,4 +16,5 @@ Madan Pamela, Plugaru Gabriela (Dezvoltatori) – Crearea aplicației, implement
 Coordonator - Melnic Tatiana - Evaluare, aprobare documentație și proiect.
 
 Link_figma:https://www.figma.com/design/PaHw252iuFsRpfl5yVxUVY/studiu_individual?node-id=0-1&t=MbIyl1g569uo7hiP-1
-
+Link_Trello:https://trello.com/invite/b/692dbcf9a3f16ebbbaba958b/ATTI0a2c57b298d1fca74469bea56871129926308897/dayframe
+Link_KlickUp:https://app.clickup.com/90152070933/v/li/901518522397
